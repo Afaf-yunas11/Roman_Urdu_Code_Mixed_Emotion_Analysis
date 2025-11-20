@@ -1,0 +1,493 @@
+happiness,joy
+delight,joy
+cheer,joy
+glad,joy
+jubilation,joy
+exhilaration,joy
+elation,joy
+ecstasy,joy
+overjoyed,joy
+thrilled,joy
+bliss,joy
+contentment,joy
+grinning,joy
+smiley,joy
+beaming,joy
+chirpy,joy
+joyful,joy
+buoyant,joy
+sparkle,joy
+glee,joy
+rejoice,joy
+smile,joy
+sunshine,joy
+merry,joy
+radiant,joy
+over the moon,joy
+tickled,joy
+pleasant,joy
+pleasantly surprised,joy
+thrill,joy
+humming,joy
+lively,joy
+chirp,joy
+jolly,joy
+bubbly,joy
+cheery,joy
+playful,joy
+fun-loving,joy
+exultation,joy
+khushi ka ehsaas,joy
+khushgawar pal,joy
+khushi ka jashn,joy
+mazedaar,joy
+dil khush,joy
+khilkhilahat,joy
+joshila,joy
+shadman,joy
+sukoon ka ehsaas,joy
+chamak,joy
+surur,joy
+musarrat,joy
+shadmani,joy
+rahat,joy
+farhat,joy
+khushnudi,joy
+masti bhara,joy
+rangin,joy
+jashn,joy
+khushi se jhoomna,joy
+dil khush kar dena,joy
+mubarak,joy
+khushi,joy
+khush,joy
+maza,joy
+khob,joy
+zabardast,joy
+shaandaar,joy
+Mast,joy
+josh,joy
+Hasna,joy
+Masti,joy
+Wahwah,joy
+khushion,joy
+khushhaal,joy
+dilchaspi,joy
+muskurahat,joy
+achi,joy
+Khoshgwar,joy
+khilkhilana,joy
+muhabbat,joy
+sukoon,joy
+bohat maza,joy
+chamak,joy
+chaein,joy
+qaraar,joy
+suroor,joy
+musarrat,joy
+shadmani,joy
+Rahat,joy
+farhat,joy
+,joy
+happy,joy
+joy,joy
+fantastic,joy
+wonderful,joy
+great,joy
+excellent,joy
+Udaasi,sadness
+dukh,sadness
+bura,sadness
+mayusi,sadness
+bezaari,sadness
+udaas,sadness
+afsos,sadness
+ghabrahat,sadness
+ranj,sadness
+kharab,sadness
+bura,sadness
+rona,sadness
+aansu,sadness
+toota,sadness
+dard,sadness
+takleef,sadness
+museebat,sadness
+pareshan,sadness
+bechain,sadness
+ghamzada,sadness
+gam,sadness
+mayusi,sadness
+naummedi,sadness
+thakan,sadness
+bezaar,sadness
+narazgi,sadness
+Akela,sadness
+ghabrahat,sadness
+zakahm,sadness
+mout,sadness
+intezar,sadness
+malal,sadness
+sog,sadness
+ghamgeen,sadness
+sharmindagi,sadness
+zilat,sadness
+sad,sadness
+unhappy,sadness
+depressed,sadness
+cry,sadness
+tears,sadness
+pain,sadness
+hurt,sadness
+broken,sadness
+lost,sadness
+bad,sadness
+worst,sadness
+awful,sadness
+terrible,sadness
+tragedy,sadness
+miss,sadness
+udaasi ka ehsaas,sadness
+dukhi,sadness
+udaas,sadness
+ghamzada,sadness
+bechain,sadness
+pareshan,sadness
+ranj,sadness
+dard,sadness
+takleef,sadness
+zakham,sadness
+malal,sadness
+sog,sadness
+ghami,sadness
+shok,sadness
+sharmindagi,sadness
+zulm ka gham,sadness
+tanhaai,sadness
+gham,sadness
+dukh,sadness
+naumeedi,sadness
+dil dukha,sadness
+dil toota,sadness
+aansu,sadness
+rona,sadness
+be-asar,sadness
+majboor,sadness
+akela,sadness
+mout,sadness
+maut,sadness
+marna,sadness
+intezaar ka dukh,sadness
+toota hua,sadness
+barbaad,sadness
+nuksan,sadness
+khoya hua,sadness
+haar,sadness
+nakami,sadness
+fail,sadness
+phail,sadness
+naakam,sadness
+na-umeed,sadness
+ghaata,sadness
+dil tootna,sadness
+zindagi ka gham,sadness
+be-ummeed,sadness
+niraash,sadness
+udaas dil,sadness
+udaasi ka ehsaas,sadness
+ranj o gham,sadness
+pareshani ka ehsaas,sadness
+musibat,sadness
+takleef,sadness
+na-umeedi,sadness
+ghamgeen,sadness
+dard,sadness
+shikayat,sadness
+kasht,sadness
+peeda,sadness
+jazbati dard,sadness
+dil ka dard,sadness
+roohani dard,sadness
+physical pain,sadness
+mental pain,sadness
+ghamzada dil,sadness
+shok,sadness
+ghum ka bojh,sadness
+depression,sadness
+heartbroken,sadness
+melancholy,sadness
+grief,sadness
+lament,sadness
+mourn,sadness
+sorrowful,sadness
+despair,sadness
+hopeless,sadness
+disheartened,sadness
+low,sadness
+discouraged,sadness
+somber,sadness
+woeful,sadness
+gloomy,sadness
+dejected,sadness
+blue,sadness
+weep,sadness
+teary,sadness
+downcast,sadness
+desolate,sadness
+broken-hearted,sadness
+forlorn,sadness
+disappointed,sadness
+pining,sadness
+lonely,sadness
+unlucky,sadness
+tragic,sadness
+grieving,sadness
+bereaved,sadness
+regret,sadness
+wistful,sadness
+upset,sadness
+ache,sadness
+tearful,sadness
+lamentation,sadness
+ghussa,anger
+naraz,anger
+lanat,anger
+khafa,anger
+chid,anger
+gazab,anger
+shiddat se ghussa,anger
+beqaboo,anger
+aatish,anger
+aatish mizaj,anger
+aag,anger
+deewana,anger
+pagalpan,anger
+junoon,anger
+tang aana,anger
+pareshan hona,anger
+bechaini,anger
+diqat,anger
+nafrat,anger
+karahat,anger
+chidchidahat,anger
+zalil,anger
+badtameez,anger
+dhoka,anger
+bewafai,anger
+dagha,anger
+jaali,anger
+farebi,anger
+zulm,anger
+istimal,anger
+maar peet,anger
+peetna,anger
+kuchalna,anger
+tabah,anger
+barbaad,anger
+sar ghoom gaya,anger
+dimagh kharab,anger
+ghussa chadhna,anger
+jal kar raakh,anger
+phat jaana,anger
+had ho gayi,anger
+rage,anger
+fury,anger
+resentment,anger
+irritation,anger
+frustration,anger
+annoyed,anger
+offended,anger
+vexed,anger
+provoked,anger
+outraged,anger
+heated,anger
+indignant,anger
+agitated,anger
+mad,anger
+cross,anger
+testy,anger
+wrath,anger
+furious,anger
+choleric,anger
+boiling,anger
+tempestuous,anger
+stormy,anger
+seething,anger
+blazing,anger
+fuming,anger
+explosive,anger
+enraged,anger
+infuriated,anger
+mad as hell,anger
+losing temper,anger
+bitter,anger
+scorn,anger
+hostile,anger
+pissed off,anger
+blow up,anger
+triggered,anger
+heated argument,anger
+shouting,anger
+rant,anger
+ghussa,anger
+naraz,anger
+lanat,anger
+khafa,anger
+chid,anger
+gazab,anger
+ghussah,anger
+sakht gussa,anger
+shadeed gussa,anger
+beqaboo,anger
+aatish,anger
+aatish mizaj,anger
+aag,anger
+aag bagola,anger
+deewana,anger
+pagal,anger
+junoon,anger
+tang,anger
+tang aana,anger
+bezar,anger
+bezari,anger
+pareshan,anger
+bechain,anger
+takleef,anger
+diqat,anger
+nafrat,anger
+karahat,anger
+chir,anger
+chidchidahat,anger
+makkar,anger
+nakara,anger
+bewakoof,anger
+bayhooda,anger
+haywan,anger
+zalil,anger
+badtameez,anger
+dhoka,anger
+bewafai,anger
+dagha,anger
+jaali,anger
+farebi,anger
+zulm,anger
+istimal,anger
+maar,anger
+maar peet,anger
+peet,anger
+peetna,anger
+kuchal,anger
+kuchalna,anger
+tor,anger
+phar,anger
+tabah,anger
+barbaad,anger
+zehr,anger
+pagalpan,anger
+sar ghoom gaya,anger
+dimaagh kharab,anger
+ulta seedha bolna,anger
+andaaz dekh,anger
+dil jal gaya,anger
+ghussay mein laal,anger
+chillana,anger
+dantna,anger
+phat gaya,anger
+tang aa gaya,anger
+barish-e-ghussa,anger
+dimagh ka dahi,anger
+tooba tooba,anger
+ulta jawab,anger
+ghussa chadhna,anger
+jal kar raakh,anger
+phat jaana,anger
+had ho gayi,anger
+theek,neutral
+acha,neutral
+thik,neutral
+bas,neutral
+abhi,neutral
+haan,neutral
+nahin,neutral
+shayad,neutral
+pata,neutral
+baat,neutral
+soch,neutral
+sochna,neutral
+chup,neutral
+shaant,neutral
+aaraam,neutral
+thehra,neutral
+sabr,neutral
+dheere,neutral
+sunta,neutral
+suno,neutral
+baith,neutral
+baithna,neutral
+dekho,neutral
+dekhna,neutral
+rukna,neutral
+ruk,neutral
+chalo,neutral
+chalta,neutral
+seedha,neutral
+saaf,neutral
+theek hai,neutral
+acha tha,neutral
+koi baat nahi,neutral
+waise,neutral
+shayad nahi,neutral
+chalo theek,neutral
+acha laga,neutral
+thoda,neutral
+zyada,neutral
+kam,neutral
+itna,neutral
+utna,neutral
+kabhi,neutral
+hamesha,neutral
+waqt,neutral
+baad,neutral
+pehle,neutral
+aaj,neutral
+kal,neutral
+ab,neutral
+phir,neutral
+baar,neutral
+thoda sa,neutral
+aisa,neutral
+waisa,neutral
+sab,neutral
+kuch,neutral
+kisi,neutral
+kahan,neutral
+kaise,neutral
+lol,sarcasm
+wow,sarcasm
+mid,sarcasm
+cringe,sarcasm
+skibidi,sarcasm
+sigma,sarcasm
+rizz,sarcasm
+gyatt,sarcasm
+grimace,sarcasm
+bussin,sarcasm
+no cap,sarcasm
+meh,sarcasm
+bruh,sarcasm
+oof,sarcasm
+yikes,sarcasm
+oohs,sarcasm
+claps,sarcasm
+encore,sarcasm
+standing ovation,sarcasm
+slow clap,sarcasm
+lmao,sarcasm
+lmfao,sarcasm
+rofl,sarcasm
+xd,sarcasm
+xdxd,sarcasm
+lul,sarcasm
+kek,sarcasm
+pfft,sarcasm
+periodt,sarcasm
+whatever,sarcasm
