@@ -1,11 +1,11 @@
 # Roman_Urdu_Code_Mixed_Emotion_Analysis
 A research based natural language project focusing on detecting emotions(joy,sadness,neutral,sarcasm,anger)inside a text given by user
 
-# 🎭 Logistic Regression (Using td-idf vector as input)
+#  Logistic Regression (Using td-idf vector as input)
 
 **Hybrid Logistic Regression Model**  is used to detect emotions in **Roman Urdu** text (Urdu written in English script). Unlike standard models, this approach combines **TF-IDF Vectorization** with **Manual Dictionary Feature Engineering** to successfully detect complex emotions like **Sarcasm**, which traditional models often miss.
 
-## 📌 Model Overview
+##  Model Overview
 *   **Language:** Roman Urdu (e.g., *"Ye product bohat bakwas hai"*)
 *   **Classes:** 5 (Joy, Sadness, Sarcasm, Anger, Neutral)
 *   **Model Architecture:** Logistic Regression (`solver='lbfgs'`)
@@ -15,7 +15,7 @@ A research based natural language project focusing on detecting emotions(joy,sad
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ### 1. Confusion Matrix
 *Visualizes where the model predicted correctly vs. where it got confused.*
@@ -44,14 +44,14 @@ The model was evaluated on a **Held-Out Test Set** of **5,278 sentences**.
 
 | Class | Precision | Recall | F1-Score | Status |
 | :--- | :---: | :---: | :---: | :--- |
-| **Sarcasm** | 0.52 | **0.63** | **0.57** | 🏆 **Best Performer** |
-| **Neutral** | 0.31 | 0.66 | 0.42 | ✅ High Recall |
-| **Anger** | 0.29 | 0.40 | 0.34 | ⚠️ Moderate |
+| **Sarcasm** | 0.52 | **0.63** | **0.57** |  **Best Performer** |
+| **Neutral** | 0.31 | 0.66 | 0.42 |  High Recall |
+| **Anger** | 0.29 | 0.40 | 0.34 |  Moderate |
 | **Joy** | 0.51 | 0.10 | 0.17 | ❌ Confused with Neutral |
 | **Sadness** | 0.32 | 0.07 | 0.11 | ❌ Confused with Anger |
 | **Overall Accuracy** | | | **36.09%** | |
 
-### 🧐 Key Insights
+###  Key Insights
 
 #### 1. The Sarcasm Breakthrough 🚀
 The model achieved a **Recall of 63% for Sarcasm**, which is exceptionally high for a sentiment model. 
@@ -65,7 +65,7 @@ The model is aggressive at predicting **Neutral** (66% Recall). However, it tend
 
 ---
 
-## ⚙️ How It Works (The Hybrid Architecture)
+##  How It Works (The Hybrid Architecture)
 
 The model does not rely on text alone. It uses a **Stacked Input Matrix**:
 
@@ -80,7 +80,7 @@ The model does not rely on text alone. It uses a **Stacked Input Matrix**:
 
 ---
 
-## 🚀 How to Run the Model
+##  How to Run the Model
 
 Requires `scikit-learn`, `pandas`, `numpy`, and `scipy`.
 
@@ -107,7 +107,7 @@ def predict_emotion(sentence):
 # 3. Test
 print(predict_emotion("Wah bhai kya kamaal service hai")) 
 # Output: Sarcasm
-🔮 Future Improvements
+Future Improvements
 
 Deep Learning (BERT/LSTM): To better understand context and resolve the "Sadness vs. Anger" confusion.
 
@@ -115,10 +115,6 @@ Enhanced Dictionary: Adding intensity-based words to distinguish between "Happy"
 
 Data Balancing: Increasing the volume of "Sadness" data to improve its recall.
 
-Created by [Your Name]
+Created by Afaf Yunas
 
-code
-Code
-download
-content_copy
-expand_less
+
