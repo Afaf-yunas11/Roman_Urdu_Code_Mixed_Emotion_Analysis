@@ -1,22 +1,11 @@
 # Roman_Urdu_Code_Mixed_Emotion_Analysis
 A research based natural language project focusing on detecting emotions(joy,sadness,neutral,sarcasm,anger)inside a text given by user
 
+# 🎭 Logistic Regression (Using td-idf vector as input)
 
+**Hybrid Logistic Regression Model**  is used to detect emotions in **Roman Urdu** text (Urdu written in English script). Unlike standard models, this approach combines **TF-IDF Vectorization** with **Manual Dictionary Feature Engineering** to successfully detect complex emotions like **Sarcasm**, which traditional models often miss.
 
-Here is a professional README.md template. You can copy-paste this directly into a text file named README.md on GitHub or use it as your Kaggle Dataset description.
-
-I have left clear placeholders (marked like ![Image](...)) where you should upload your PNG files.
-
-code
-Markdown
-download
-content_copy
-expand_less
-# 🎭 Roman Urdu Sentiment Analysis (Hybrid Model)
-
-This project implements a **Hybrid Logistic Regression Model** to detect emotions in **Roman Urdu** text (Urdu written in English script). Unlike standard models, this approach combines **TF-IDF Vectorization** with **Manual Dictionary Feature Engineering** to successfully detect complex emotions like **Sarcasm**, which traditional models often miss.
-
-## 📌 Project Overview
+## 📌 Model Overview
 *   **Language:** Roman Urdu (e.g., *"Ye product bohat bakwas hai"*)
 *   **Classes:** 5 (Joy, Sadness, Sarcasm, Anger, Neutral)
 *   **Model Architecture:** Logistic Regression (`solver='lbfgs'`)
@@ -31,22 +20,21 @@ This project implements a **Hybrid Logistic Regression Model** to detect emotion
 ### 1. Confusion Matrix
 *Visualizes where the model predicted correctly vs. where it got confused.*
 
-![Confusion Matrix](path_to_your_confusion_matrix.png) 
-<!-- 👆 UPLOAD YOUR CONFUSION MATRIX PNG HERE AND REPLACE THE PATH -->
+<img width="2373" height="2115" alt="confusion_matrix (1)" src="https://github.com/user-attachments/assets/f0d55ea0-653d-483f-8c52-4988f13c573d" />
+our_pie_chart.png)
+
 
 ### 2. Class Performance (F1-Score)
 *A comparison of how well the model performed for each specific emotion.*
 
-![F1 Score Chart](path_to_your_f1_score_chart.png)
-<!-- 👆 UPLOAD YOUR BAR CHART PNG HERE -->
+![Pie Chart](path_to_y<img width="2539" height="1349" alt="F1-score-barchart" src="https://github.com/user-attachments/assets/40b10d9e-b858-402d-bdf1-5b7e7d4ab67d" />
+
+
 
 ### 3. Dataset Distribution
 *The balance of data across the 5 emotions in the test set.*
 
-![Pie Chart](path_to_y<img width="2539" height="1349" alt="F1-score-barchart" src="https://github.com/user-attachments/assets/40b10d9e-b858-402d-bdf1-5b7e7d4ab67d" />
-<img width="2373" height="2115" alt="confusion_matrix (1)" src="https://github.com/user-attachments/assets/f0d55ea0-653d-483f-8c52-4988f13c573d" />
-our_pie_chart.png)
-<!-- 👆 UPLOAD YOUR PIE CHART PNG HERE -->
+
 
 ---
 
